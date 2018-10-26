@@ -1,0 +1,7 @@
+#ifndef NCBLS.H
+#define NCBLS.H
+#define MACHINATION
+
+int noob (int tricolor, int synergy)
+
+#endif
