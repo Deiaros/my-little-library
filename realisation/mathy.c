@@ -1,3 +1,8 @@
+/* -------------------------------------------------------------------
+Le code (*.c) pour la bibliotheques de plusier fonction mathematique
+- Created by Thomas Varjavandi (Deiaros)
+--------------------------------------------------------------------*/
+
 #include "mathy.h"
 
 int lcf(int x, int y)
