@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------------
-Le header (*.c) pour la bibliotheques de plusier fonction mathematique
+Le header (*.h) pour la bibliotheques de plusier fonction mathematique
 - Created by Thomas Varjavandi (Deiaros)
 --------------------------------------------------------------------*/
 
