@@ -1,9 +1,0 @@
-#include <stdio.h>
-char Crabe;
-Void main ();
-{
-printf("Quel est ton nom?");
-scanf ("%c",&Crabe);
-printf ("FDP sacha aime les zguegs");
-return 0
-}
