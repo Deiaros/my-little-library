@@ -1,9 +1,9 @@
 #include <stdio.h>
-char Bob;
+char Crabe;
 Void main ();
 {
 printf("Quel est ton nom?");
-scanf ("%c",&Bob);
-printf ("Nan je m'en branle");
+scanf ("%c",&Crabe);
+printf ("FDP orme aime les zguegs");
 return 0
 }
