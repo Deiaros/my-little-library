@@ -1,7 +1,7 @@
 #ifndef BIBLIOTHEQUE_H
 #define BIBLIOTHEQUE_H
 
-/* les macro pour le francais fainéant */
+/* Macro Thomas */
 #define DEBUT {
 #define FIN }
 #define NUMERO int
