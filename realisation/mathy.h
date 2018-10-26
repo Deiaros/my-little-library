@@ -1,3 +1,8 @@
+/* -------------------------------------------------------------------
+Le header (*.c) pour la bibliotheques de plusier fonction mathematique
+- Created by Thomas Varjavandi (Deiaros)
+--------------------------------------------------------------------*/
+
 #ifndef MATHY_H
 #define MATHY_H
 
