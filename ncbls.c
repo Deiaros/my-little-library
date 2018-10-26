@@ -1,4 +1,4 @@
-#include NCDLS.H
+#include ncbls.h
 
 int noob(int synergy, int tricolor)
 {
