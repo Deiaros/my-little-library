@@ -26,7 +26,7 @@ FIN
 #if !defined (ERROR)
 	#define ERROR "ERROR: quelque chose s'est mal passe"
 
-#define comp(x, y) ((x) == (y)
+#define comp(x, y) ((x) == (y))
 
 #define sqr(x) ((x) * (x))
 
