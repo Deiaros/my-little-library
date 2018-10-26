@@ -11,11 +11,11 @@ NUMERO trouve = rand();
 NUMERO choix;
 
 IMPRIM ("Choisir un numéro:");
-SCAN ("%d", choix);
+SCAN ("%ff", &choix);
 TANT_QUE (choix != trouve)
 DEBUT
 	IMPRIM ("Perdu, choisir un nouveau numéro:");
-	SCAN ("%d", choix);
+	SCAN ("%d", &choix);
 	SI (choix == trouve)
 	DEBUT
 		IMPRIM ("Tu es si proche!");
