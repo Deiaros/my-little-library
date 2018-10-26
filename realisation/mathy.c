@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------------
-Le code (*.c) pour la bibliotheques de plusier fonction mathematique
+Le code source (*.c) pour la bibliotheques de plusier fonction mathematique
 - Created by Thomas Varjavandi (Deiaros)
 --------------------------------------------------------------------*/
 
